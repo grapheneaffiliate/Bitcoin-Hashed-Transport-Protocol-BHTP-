@@ -2,8 +2,6 @@
 
 **A Censorship-Resistant Communication Protocol Using Blockchain-Derived Ephemeral Keys**
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 ## Overview
 
 The Bitcoin-Hashed Transport Protocol (BHTP) is a novel time-based obfuscation layer that renders encrypted network traffic statistically indistinguishable from random noise. By deriving ephemeral encryption keys from Bitcoin block hashes, BHTP eliminates the cryptographic handshakes and traffic signatures exploited by Deep Packet Inspection (DPI) systems for protocol identification and censorship.
